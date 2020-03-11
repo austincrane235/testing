@@ -1,3 +1,74 @@
+Tests #2
+---
+
+CHANGE 1: Added two trailing spaces after "Here's a line break test."  Hoping that it enters "This should be the same paragraph as before." into a new line, but the same paragraph.
+Here's a line break test.  
+This should be the same paragraph as before.
+
+This should be a separate paragraph.
+
+***
+
+# Header Uno
+
+_Note:_ The alt-text (AHAHA) doesn't show.  No idea what it does or means.
+
+This should be an image with a link to a YouTube video.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GoqFj81bpok
+" target="_blank"><img src="http://img.youtube.com/vi/GoqFj81bpok/0.jpg" 
+alt="AHAHA" width="240" height="180" border="10" /></a>
+
+---
+
+CHANGE 2: Testing why bullet spacing differs.
+
+1. Same bullet (asterisks), two leading spaces
+  * Sublist, unordered.  Uses two indenting spaces
+  * Bullet point 2
+  * Bullet point 3
+2. Same bullet (asterisks), one leading space
+ * unordered list using plus sign
+ * unordered list using hyphen
+ * unordered list using asterisk
+3. Same bullet (pluses), two leading spaces
+  + unordered list using plus sign
+  + unordered list using hyphen
+  + unordered list using asterisk
+4. Different bullets, two leading spaces
+  + Plus
+  - Minus
+  * Asterisks
+5. Different bullets, one leading space
+ * Asterisk
+ + Plus
+ - Minus
+
+ Properly-indented paragraph here.  Use at least one space to indent.  
+ Use two trailing spaces in above paragraph to have new line in same paragraph.
+^ This worked!
+
+
+
+6. Sixth item.  CHANGE 3: Let's see if this resets as 1., or continues as 6.  
+   1. CHANGE 4: Does adding extra leading space (3 total) allow an ordered, numbered sublist?
+   2. Number 2
+   1. Number 3.  Marked as "1.", testing if sublist number order matters
+
+
+-----
+
+CHANGE 5: Entered additional line between display text and reference link.
+Reference-style:
+
+![alt text][Cactus pic]
+
+[Cactus pic]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Buckhorn_Cholla_Bloom.jpg/3024px-Buckhorn_Cholla_Bloom.jpg "Hoping this title will work"
+
+---------
+
+TESTS #1
+
 testing
 
 First repo - February *28*, 2020
@@ -14,7 +85,7 @@ Raw HTML test: Definition List
 
 ---
 
-Here's a line break test.
+Here's a line break test.  
 This should be the same paragraph as before.
 
 This should be a separate paragraph.
@@ -151,4 +222,6 @@ end
 Quote break
 
  > Here's a blockquote with one leading space
+
+
 
