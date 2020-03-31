@@ -1,8 +1,8 @@
 # **Methods: CN Dep Spring Annuals Biomass Harvest**
 
-February 2015
-Last editors: Sharon J. Hall, Elizabeth Cook, Scott Collins, Christopher Clark, and Lindsey Pollard
-Updated by Sally Wittlinger, Spring 2016
+February 2015  
+Last editors: Sharon J. Hall, Elizabeth Cook, Scott Collins, Christopher Clark, and Lindsey Pollard  
+Updated by Sally Wittlinger, Spring 2016  
 
 Each spring when there is sufficient rainfall, we estimate aboveground net primary productivity (ANPP) of herbaceous annual plants in each of the CN Dep study plots by harvesting the aboveground portion of annual herbs from a 1/2 m x 1/2 m section of established 1m x 1m sub-plots. These plots are distinguished from similar 1m x 1m sub-plots that are used for community composition. Take care to avoid the community composition sub-plots! Only harvest the sub-plots that are designated for biomass.
 

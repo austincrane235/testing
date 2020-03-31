@@ -1,14 +1,14 @@
 # **CN DEP Fertilization Protocol**
 
 
-### **Overview**
+## **Overview**
 
 The [DesFert](https://sustainability.asu.edu/caplter/research/long-term-monitoring/desert-fertilization-experiment-formerly-known-carbon-nitrogen-deposition/) project consist of 15 sites positioned in the Phoenix metropolitan core and surrounding Sonoran Desert. The 15 sites are split into three regions: five sites in the West, five sites in the urban Core (central Phoenix locations) and five sites in the East. Each site consists of five 20m x 20m plots. Nutrient treatments of ambient (no fertilizer, i.e. Controls 1 and 2), nitrogen (N), phosphorus (P), and nitrogen plus phosphorus (N+P) have been assigned to the plots to test the hypothesis that urban N deposition pushes the desert system toward P limitation. Twice a year, corresponding to the start of the winter rains and summer monsoons, the N, P, and N+P plots are fertilized. Nitrogen is applied in the form of ammonium nitrate (NH<sub>4</sub>NO<sub>3</sub>) and phosphorus as Triple Super Phosphate (Ca(H<sub>2</sub>PO<sub>4</sub>)). The application of fertilizer is the fundamental task within the DesFert project.
 
 Fertilization with N, P, and N and P(N+P)P of 20m x 20m plots at all 5 sites in the West, Central, and East regions will be done twice per year to test the hypothesis that urban N deposition pushes the desert system toward P limitation. The level of N addition (as NH<sub>4</sub>NO<sub>3</sub>) is chosen to be ~ twice the current maximum deposition rate, i.e., 60 kg ha<sup>-1</sup> y<sup>-1</sup>; P addition level is 1/5 (by mass; 1/11 by atoms) that of N at 12 kg ha<sup>-1</sup> y<sup>-1</sup>. Fertilizer will be applied twice per year, in January (just before the onset of winter rains or just after the first winter rain), and July (hopefully, shortly after the beginning of the monsoon). Amounts given below are for each fertilization event, i.e. half of the annual application rate.
 
 
-### **Materials and Supplies:**
+## **Materials and Supplies:**
 
 Plastic bins for storing and transporting fertilizer are kept at the [CAP-LTER storage facility](https://goo.gl/maps/1UD2wHWYyxzGT7qv8 "Storage facility location on Google Maps") located to the North of the ASU Community Services (CSB) building and the Arizona State Climatology office: 200 E Curry Rd, Tempe, AZ 85281
 
@@ -28,9 +28,9 @@ Plastic bins for storing and transporting fertilizer are kept at the [CAP-LTER s
 * Wide brim hat
 
 
-### **Procedure**
+## **Procedure**
 
-##### **Weighing fertilizer:**
+### **Weighing fertilizer:**
 
 Make sure to use appropriate protective gear when working with fertilizer, and please make sure to do all of the weighing outside of the laboratory (outside the building near a hose would be best).
   
@@ -48,7 +48,7 @@ Empty the fertilizer into ziplock bags. The fertilizer for the N+P plots can be 
 ![alt text](link "Figure 2")
 
 
-##### **In the field:**
+### **In the field:**
 
 Verify that all plots are marked at all plot corners to identify the treatment with (a) metal tags and (b) colored duct tape on rebar and/or (c) metal washers with plot information engraved on them and secured by metal stakes.  The closer the plot is to potential human traffic, the more discreet the markers used to identify the plots need to be. Colors will be as follows:  Green = N; Red = P; Green and Red = N+P. Control plots are marked with white tape. Mark the 10m point on each plot line and the center of the plot with a pin flag (Figure 3)
 
@@ -56,7 +56,7 @@ Verify that all plots are marked at all plot corners to identify the treatment w
 ![alt text](link "Figure 3")
 
 
-##### **Spreading the fertilizer:**
+### **Spreading the fertilizer:**
 
 *Prior to applying the fertilizer at each plot, find the permanent markers, check the colors on the corners, and double-check the map to clearly understand which of the plots receives each treatment (N, P, N+P).*
 
@@ -94,11 +94,11 @@ Select a plot corner as a starting point and remove the corresponding bag of fer
 
 Once the plot perimeter is fertilized, move to the center of the plot and spread fertilizer towards the corners using a Frisbee-like throw until the plot is completely fertilized (Figure 10). The goal is to fertilize homogeneously and at a constant density across the entire plot. 
 
-**Figure 10.  Move to the center of the plot and spread fertilizer towards the corners using a Frisbee-like throw until the plot is completely fertlized.**
+**Figure 10.  Move to the center of the plot and spread fertilizer towards the corners using a Frisbee-like throw until the plot is completely fertilized.**
 ![alt text](link "Figure 10")
 
 
-### **Wrap up**
+## **Wrap up**
 **The following steps will help minimize the excess inhalation of fertilizer while traveling in the truck.**
 
 * Place all used fertilizer bags in to a trash bag and seal immediately so that it doesn't further contaminate you, tools, the truck, etc.  
@@ -107,7 +107,7 @@ Once the plot perimeter is fertilized, move to the center of the plot and spread
 * Place shirt, and hat in separate plastic bag and place bag in plastic bin.
 
 
-### **Fertilization Chart**
+## **Fertilization Chart**
 
 **Nutrient** |  **N**  |  **P**
 --- | ---: | ---:
@@ -116,7 +116,7 @@ Fertilizer application rate (kg N ha<sup>-1</sup> y<sup>-1</sup>) | 30 | 12
 applications per year | 2 | 2
 mass nutrient atom per m<sup>2</sup> per application (g) | 1.5 | 0.6
 mass nutrient atom per 400m<sup>2</sup> plot per application (g) | 600 | 240
-**mass fertilizer per 400m<sup>2</sup> plot per app (kg) | 1.715 | 1.224
+**mass fertilizer per 400m<sup>2</sup> plot per app (kg)** | **1.715** | **1.224**
 total mass fertilizer needed per year (kg) | 102.9 | 73.4
 total mass fertilizer needed per year (lb) | 226.8 | 161.9
 
