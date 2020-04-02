@@ -14,8 +14,8 @@ Collectors are replaced every 3 months<sup>1</sup>. A set of collectors are loca
 
 In addition to the 4 main collectors, 6 control columns are placed at 1 designated site in each region (WTM, DBG, and LDP). Three of the control columns are located underneath *Larrea* and 3 are tied to rebar in interplant spalces. A cap replaces the funnel in the control columns to prevent atmospheric ions from contacting the resin (fig. 2).
 
-### **Prep:**
-##### Deposition Collector Construction:
+## **Prep:**
+### Deposition Collector Construction:
 Supplies: be sure to take stock of supply levels early; many items on this list must be ordered online and shipped to campus.
 * Plastic funnels - 1 for each non-control column
 * Threaded PVC couplers - 1 for each non-control column
@@ -63,7 +63,7 @@ Supplies: be sure to take stock of supply levels early; many items on this list 
 11. Place all the bird spikes needed for each region in a sweater box.
 12. All that is left is to attach the columns to the funnels and then attach the bird spikes, which are both done in the field.
 
-##### Gather Field Supplies:
+### Gather Field Supplies:
 Installing the collectors is usually spread out over 3 fiel days _ 1 day for each region.
 * Columns - 1 for each collector + 6 capped control columns
 * Screen-covered funnels - 1 for each collector
@@ -86,8 +86,8 @@ Installing the collectors is usually spread out over 3 fiel days _ 1 day for eac
 * Nitex gloves & work gloves
 * Backpack
 
-### **Field Protocol:**
-##### Establishing a new study site or repairing damage/vandalism:
+## **Field Protocol:**
+### Establishing a new study site or repairing damage/vandalism:
 Supplies:
 * 3 soil augers (3-in diameters? We want only slightly larger than the dep collectors)
 * PVC hole liners (same diameter as auger and only a bit bigger than the dep collectors)
@@ -102,7 +102,7 @@ Supplies:
 5. Move or break dead branches if necessary to give the funnel some room - the funnel should be aboveground but not touching the bottom branches of the shrub nor the bottom of the hole.
 6. To install interplant collectors, pound in 1.5 m rebar with a sledge hammer at the selected site.
 
-##### Changing out the dep collectors:
+### Changing out the dep collectors:
 1. Before leaving the field vehicle:
    1. Fill the 500 mL Nalgene bottles with DI from the carboy.
    2. Using the 20-gauge wire, attach the bird spikes to the screen-covered funnel.
@@ -129,7 +129,7 @@ Supplies:
 **Interplant Dep Collector (IP)**
 ![alt text](https://github.com/austincrane235/testing/blob/master/Images/CN_DEP_Collector_Fig4.JPG "Figure 4")
 
-### **Resin Extraction Protocol:**
+## **Resin Extraction Protocol:**
 Mixed bed resins are charged with H<sup>+</sup> and either Cl<sup>-</sup> or HCO<sub>3</sub><sup>-</sup>. The resins have a low affinity for these ions, which are replaced by NH<sub>4</sub><sup>+</sup>, NO<sub>3</sub><sup>-</sup>. The extractant used to remove N ions from the columns can vary depending on resin type and the type of analysis required. Extraction for the mixed bed resin is described in the following procedure using 2M KCl. We are currently working on a 0.5 or 1M HCl extraction method so that we can analyze for trace metals on ICP-OES as well as NH<sub>4</sub> and NO<sub>3</sub>.
 Supplies:
 * Solutions of 2M KCl in 20 L carboy (149g KCl/L DI, put on shaker until dissolved)
@@ -163,7 +163,7 @@ Procedure:
 18. Pour ~ 50 mL of filtrate into labeled falcon tubes and discard the rest into the designated waste container.
 19. Place the falcon tubes in Styrofoam tube holders and place in freezer in prep room of GWC 677. Frozen extractions will be defrosted and analyzed at a later date on the Lachat using the phenol method.
 
-### **Clean-up:**
+## **Clean-up:**
 1. Empty remaining resin from 250 mL bottles into fine sieve in sink. Place the resin waste in a designated waste container.
 2. All solid resin waste and KCl w/ trace resin waste must be properly labeled and picked up by Hazardous Waste.
 3. All funnels, nipples, caps, 250 mL plastic bottles, plastic cone funnels, flasks, and bird spikes should be washed first with Liquinox soap and then HCl-washed. For metal bird spikes, quickly dip in HCl-wash and rinse with copious DI.

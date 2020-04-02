@@ -1,4 +1,4 @@
-# **Methods: CN Dep Spring Annuals Biomass Harvest**
+# **CN Dep Spring Annuals Biomass Harvest**
 
 February 2015  
 Last editors: Sharon J. Hall, Elizabeth Cook, Scott Collins, Christopher Clark, and Lindsey Pollard  
@@ -6,10 +6,12 @@ Updated by Sally Wittlinger, Spring 2016
 
 Each spring when there is sufficient rainfall, we estimate aboveground net primary productivity (ANPP) of herbaceous annual plants in each of the CN Dep study plots by harvesting the aboveground portion of annual herbs from a 1/2 m x 1/2 m section of established 1m x 1m sub-plots. These plots are distinguished from similar 1m x 1m sub-plots that are used for community composition. Take care to avoid the community composition sub-plots! Only harvest the sub-plots that are designated for biomass.
 
-**Protocol overview:** In each CN Dep plot, we established 4 "biomass" sub-plots per plot, two in each of two patch types, between shrubs (IP for 'inter-plant space') and under the canopies of *Larrea tridentata* (P for 'under plant'). Each sub-plot is coded with the patch type (IP or P); the letter B for biomass (to distinguish it from the community composition sub-plots which are not harvested and do not have a letter B after the patch type code); and the sub-plot number (1 or 2). For example, IPB1 & IPB2 are interplant space sub-plots one and two, and PB1 and PB2 are sub-plots 1 and 2 under *Larrea* shrubs. Remember that the biomass sub-plots are distinguished from the community composition sub-plots with the letter B after the patch type code (example, IPB1 = Biomass sub-plot 1, inter-plant space). Within each 1m x 1m biomass sub-plot, teams will clip aboveground annual biomass from **one** 1/2 m x 1/2 m quadrat in each 1m biomass sub-plot. This sub-section is rotated each year so that any given patch of ground is harvested at the most once every four years. Teams will carefully write the plot identifier on paper bags. (Double-check the labels! Labeling mistakes are the most common error in this procedure). Then, teams will cut all grean and brown herbaceous plant biomass that occurs within the boundaries of the 1/2 m x 1/2 m sub-section and place it in the pre-labeled bag. After the harvest is done, teams will dry the bags and biomass at 60 degrees Celsius for 48 hours, then weigh the biomass (subtracting the weight of the bag) on a scale and record.
+## **Protocol overview:** 
+
+In each CN Dep plot, we established 4 "biomass" sub-plots per plot, two in each of two patch types, between shrubs (IP for 'inter-plant space') and under the canopies of *Larrea tridentata* (P for 'under plant'). Each sub-plot is coded with the patch type (IP or P); the letter B for biomass (to distinguish it from the community composition sub-plots which are not harvested and do not have a letter B after the patch type code); and the sub-plot number (1 or 2). For example, IPB1 & IPB2 are interplant space sub-plots one and two, and PB1 and PB2 are sub-plots 1 and 2 under *Larrea* shrubs. Remember that the biomass sub-plots are distinguished from the community composition sub-plots with the letter B after the patch type code (example, IPB1 = Biomass sub-plot 1, inter-plant space). Within each 1m x 1m biomass sub-plot, teams will clip aboveground annual biomass from **one** 1/2 m x 1/2 m quadrat in each 1m biomass sub-plot. This sub-section is rotated each year so that any given patch of ground is harvested at the most once every four years. Teams will carefully write the plot identifier on paper bags. (Double-check the labels! Labeling mistakes are the most common error in this procedure). Then, teams will cut all grean and brown herbaceous plant biomass that occurs within the boundaries of the 1/2 m x 1/2 m sub-section and place it in the pre-labeled bag. After the harvest is done, teams will dry the bags and biomass at 60 degrees Celsius for 48 hours, then weigh the biomass (subtracting the weight of the bag) on a scale and record.
 
 
-### **Supplies:**
+## **Supplies:**
 
 * List of sub-sections (1/2 m x 1/2 m sub-quads in each 1m x 1m plot to sample this year; 1 list for each person)
 * 1m x 1m & 1/2 m x 1/2 m PVC piping (one for each person)
@@ -28,6 +30,7 @@ Each spring when there is sufficient rainfall, we estimate aboveground net prima
 **Figure 1.  Layout & sampling rotation of biomass quadrats.**
 ![alt text](link "Figure 1")
 
+## **Protocols:**
 
 ### **Field Protocol:**
 
@@ -86,7 +89,7 @@ To calculate the dry mass, subtract the average bag weight from ~10 new/unused b
 To calculate the dry biomass per m<sup>2</sup>, multiply the dry mass by 4 (because biomass only collected from 1/4 of plot).
 
 
-**Table 1. Site names and codes.**
+### **Table 1. Site names and codes.**
 
 **Site** | **Code** | **Location**
 --- | --- | ---
@@ -107,7 +110,7 @@ Sonoran Desert National Monument, East | SNE | West Valley
 Sonoran Desert National Monument, West | SNW | West Valley
 
 
-**Table 2. Plot numbers and treatment assignments.**
+### **Table 2. Plot numbers and treatment assignments.**
 
 Random Treatment Assignments for Plots in the CNDep project
 
