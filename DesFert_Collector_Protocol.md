@@ -3,14 +3,14 @@
 Do rates of nitrogen deposition vary across Phoenix? How much nitrogen is added to soils from throughfall (underneath shrubs) compared to from deposition alone (in plant interspaces)? To answer these questions, we will measure nitrate and ammonium concentrations that will be collected on a column of anion and cation exchange resins that are placed within plant interspaces and beneath individuals of *Larrea* in each of our sites. In order to measure deposition rates, we will capture atmospheric ammonium and nitrate arriving to the deposition collectors over a pre-determined period of time.
 
 **Figure 1.**
-![alt text](https://github.com/austincrane235/testing/blob/master/Images/CN_DEP_Collector_Fig1.JPG "Figure 1")
+![alt text](https://github.com/austincrane235/testing/blob/master/Images/DesFert_Collector_Fig1.JPG "Figure 1")
 
 Collectors are replaced every 3 months<sup>1</sup>. A set of collectors are located at each CN Dep study site with the exception of Mountain View Park (MVP). Each site has 4 collectors - 2 located underneath *Larrea* shrubs and 2 tied to rebar in interplant spaces. The deposition collectors consist of 2 main parts that are constructed in the lab - a screen-covered funnel and a resin column (fig. 1). In the field, the funnel is screwed onto the column and bird spikes are attached to the interplant collectors prior to installation.
 
 <sup>1</sup> except for 2 extra interplant collectors per region (WTM, DBG, MCS), which are replaced every 6 months.
 
 **Figure 2.**
-![alt text](https://github.com/austincrane235/testing/blob/master/Images/CN_DEP_Collector_Fig2.JPG "Figure 2")
+![alt text](https://github.com/austincrane235/testing/blob/master/Images/DesFert_Collector_Fig2.JPG "Figure 2")
 
 In addition to the 4 main collectors, 6 control columns are placed at 1 designated site in each region (WTM, DBG, and LDP). Three of the control columns are located underneath *Larrea* and 3 are tied to rebar in interplant spalces. A cap replaces the funnel in the control columns to prevent atmospheric ions from contacting the resin (fig. 2).
 
@@ -123,11 +123,11 @@ Supplies:
 
 **Figure 3.**
 **_Larrea tridentata_ Dep Collector (LATR)**
-![alt text](https://github.com/austincrane235/testing/blob/master/Images/CN_DEP_Collector_Fig3.JPG "Figure 3")
+![alt text](https://github.com/austincrane235/testing/blob/master/Images/DesFert_Collector_Fig3.JPG "Figure 3")
 
 **Figure 4.**
 **Interplant Dep Collector (IP)**
-![alt text](https://github.com/austincrane235/testing/blob/master/Images/CN_DEP_Collector_Fig4.JPG "Figure 4")
+![alt text](https://github.com/austincrane235/testing/blob/master/Images/DesFert_Collector_Fig4.JPG "Figure 4")
 
 ## **Resin Extraction Protocol:**
 Mixed bed resins are charged with H<sup>+</sup> and either Cl<sup>-</sup> or HCO<sub>3</sub><sup>-</sup>. The resins have a low affinity for these ions, which are replaced by NH<sub>4</sub><sup>+</sup>, NO<sub>3</sub><sup>-</sup>. The extractant used to remove N ions from the columns can vary depending on resin type and the type of analysis required. Extraction for the mixed bed resin is described in the following procedure using 2M KCl. We are currently working on a 0.5 or 1M HCl extraction method so that we can analyze for trace metals on ICP-OES as well as NH<sub>4</sub> and NO<sub>3</sub>.
