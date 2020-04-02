@@ -1,4 +1,4 @@
-# **CN Dep Spring Annuals Biomass Harvest**
+# **DesFert (CN DEP) Spring Annuals Biomass Harvest**
 
 February 2015  
 Last editors: Sharon J. Hall, Elizabeth Cook, Scott Collins, Christopher Clark, and Lindsey Pollard  

@@ -1,5 +1,4 @@
-# **Soil Collection Protocol for Site Selection**
-**last updated**
+# **DesFert (CN DEP) Soil Collection Protocol for Site Selection**
 
 
 At this point we are trying to screen sites to make sure that none have anomalously high C, N, or P. On the other hand, if the sites look (after this initial screening) good then we can use left-over soils for this collection for some preliminary lab experiments. To determine whether soil carbon and nutrients are anomalously high, it would be nice to have some baseline data for comparison. The 200 point survey is an obvious choice, but that would require coring to 10 cm which is a lot of work. So, I think we should sample to 2 cm which would make our data comparable to recent measurements at Sycamore Creek (we should check with Jill/Ryan to make sure this depth is correct).

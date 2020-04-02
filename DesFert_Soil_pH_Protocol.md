@@ -1,4 +1,4 @@
-# **CN DEP Soil pH Protocol**
+# **DesFert (CN DEP) Soil pH Protocol**
 
 ## **Equipment needed:**
 

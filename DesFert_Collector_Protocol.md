@@ -1,4 +1,4 @@
-# **CN Dep - Deposition Collector Protocol (7/2009)**
+# **DesFert (CN Dep) Deposition Collector Protocol (7/2009)**
 
 Do rates of nitrogen deposition vary across Phoenix? How much nitrogen is added to soils from throughfall (underneath shrubs) compared to from deposition alone (in plant interspaces)? To answer these questions, we will measure nitrate and ammonium concentrations that will be collected on a column of anion and cation exchange resins that are placed within plant interspaces and beneath individuals of *Larrea* in each of our sites. In order to measure deposition rates, we will capture atmospheric ammonium and nitrate arriving to the deposition collectors over a pre-determined period of time.
 

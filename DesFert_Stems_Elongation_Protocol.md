@@ -45,13 +45,11 @@ Last updated December 2019
    2. Measure the re-taped stem lengths as above and record in the tablet.
 
 **Figure 1. Branching stem."
-![alt text](Link "Figure 10")
+![alt text](Link "Figure 1")
+
 
 
 ## **Appendix 1: Tablet Protocol**
-
-
-
 
 
 ![alt text](Link "Figure 1")

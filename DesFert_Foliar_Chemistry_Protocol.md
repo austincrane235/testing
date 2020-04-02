@@ -1,4 +1,4 @@
-# **CN DEP Foliar CNP Analysis Protocol**
+# **DesFert (CN DEP) Foliar CNP Analysis Protocol**
 
 November 17, 2005
 

@@ -1,4 +1,4 @@
-# **CN DEP (DesFert) Spring ANnuals COmmunity Composition Survey**   
+# **DesFert (CN DEP) Spring Annuals Community Composition Survey**   
 Sharon J. Hall, Elizabeth Cook, Scott Collins, Christopher Clark, and Nancy Grimm   
 Updated by Sally Wittlinger, May 2019
 
