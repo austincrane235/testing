@@ -1,5 +1,9 @@
 # **DesFert (CN DEP) Fertilization Protocol**
 
+Last updated: September 2019  
+
+![alt text](Images/DesFert_Fertilization_Fig0.jpeg "DesFert Fertilization Protocol")
+
 
 ## **Overview**
 
@@ -39,13 +43,13 @@ In order to speed up the process, two containers have been marked to the level r
 Use this volume of fertilizer (filling container to the line twice), instead of the mass, to split the fertilizer per plot.
 
 **Figure 1.  Containers used for measuring out Nitrogen (green) and Phosphorus (red) fertilizer.**
-![alt text](link "Figure 1")
+![alt text](Images/DesFert_Fertilization_Fig1.JPG "Figure 1")
 
 Empty the fertilizer into ziplock bags. The fertilizer for the N+P plots can be combined but need to be homogenized prior to spreading on plots (Figure 2).
 
 
 **Figure 2.  Bag of non-homogenized N+P fertilizers (left). Bag of homogenized N+P fertilizers (right).**
-![alt text](link "Figure 2")
+![alt text](Images/DesFert_Fertilization_Fig2.JPG "Figure 2")
 
 
 ### **In the field:**
@@ -53,7 +57,7 @@ Empty the fertilizer into ziplock bags. The fertilizer for the N+P plots can be 
 Verify that all plots are marked at all plot corners to identify the treatment with (a) metal tags and (b) colored duct tape on rebar and/or (c) metal washers with plot information engraved on them and secured by metal stakes.  The closer the plot is to potential human traffic, the more discreet the markers used to identify the plots need to be. Colors will be as follows:  Green = N; Red = P; Green and Red = N+P. Control plots are marked with white tape. Mark the 10m point on each plot line and the center of the plot with a pin flag (Figure 3)
 
 **Figure 3.  The flags aid in plot orientation and budgeting of the fertilizer.**
-![alt text](link "Figure 3")
+![alt text](Images/DesFert_Fertilization_Fig3.jpeg "Figure 3")
 
 
 ### **Spreading the fertilizer:**
@@ -69,7 +73,7 @@ Make sure all personal protection gear is in place before beginning fertilizatio
 * Put on gloves (change between N and P fertilizers). 
 
 **Figure 4.  Example of proper personal protection while broadcasting fertilizer to plot perimeter.  Photo credit: Bradley Niska**
-![alt text](link "Figure 4")
+![alt text](Images/DesFert_Fertilization_Fig4.jpeg "Figure 4")
 
 At each plot, visually identify all four corners and the 10m flags on the boundaries to make sure you know the layout of the plot. This will reduce the possibility of applying fertilizer outside of the plot.
 
@@ -78,24 +82,24 @@ Select a plot corner as a starting point and remove the corresponding bag of fer
 **Note:** This is extremely important at sites where plot boundaries are separated by a few meters, e.g., Lost Dutchman State Park (LDP; Figure 5).
 
 **Figure 5.  Plots at Lost Dutchman Park.**
-![alt text](link "Figure 5")
+![alt text](Images/DesFert_Fertilization_Fig5.JPG "Figure 5")
 
 **Figure 6.  Start at one corner and hand broadcast the fertilizer as you walk to the next corner.**
-![alt text](link "Figure 6")
+![alt text](Images/DesFert_Fertilization_Fig6.png "Figure 6")
 
 **Figure 7.  When the second corner is reached visually locate the third corner and continue the process.**
-![alt text](link "Figure 7")
+![alt text](Images/DesFert_Fertilization_Fig7.png "Figure 7")
 
 **Figure 8.  Continue around the perimeter paying close attention to the plot boundaries.**
-![alt text](link "Figure 8")
+![alt text](Images/DesFert_Fertilization_Fig8.png "Figure 8")
 
 **Figure 9.  When you have reached your starting point the perimeter of the plot should be covered with a layer of fertilizer.**
-![alt text](link "Figure 9")
+![alt text](Images/DesFert_Fertilization_Fig9.png "Figure 9")
 
 Once the plot perimeter is fertilized, move to the center of the plot and spread fertilizer towards the corners using a Frisbee-like throw until the plot is completely fertilized (Figure 10). The goal is to fertilize homogeneously and at a constant density across the entire plot. 
 
 **Figure 10.  Move to the center of the plot and spread fertilizer towards the corners using a Frisbee-like throw until the plot is completely fertilized.**
-![alt text](link "Figure 10")
+![alt text](Images/DesFert_Fertilization_Fig10.png "Figure 10")
 
 
 ## **Wrap up**

@@ -32,7 +32,7 @@ We want to measure the foliar C, N, and P content for *Larrea tridentata* and *A
 6. Dry all leaves in coin envelopes at 70 degrees Celsius for at least 48 hours before grinding.
 
 **Figure 1. For example, you would choose the leaves that are marked in red (shaded).**
-![alt text](Link "Figure 1")
+![alt text](Images/DesFert_Foliar_Chemistry_Fig1.JPG "Figure 1")
 
 
 ## **Litter grinding:**

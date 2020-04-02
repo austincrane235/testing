@@ -45,51 +45,51 @@ Last updated December 2019
    2. Measure the re-taped stem lengths as above and record in the tablet.
 
 **Figure 1. Branching stem."
-![alt text](Link "Figure 1")
+![alt text](Images/DesFert_Stem_Elongation_Fig1.PNG "Figure 1")
 
 
 
 ## **Appendix 1: Tablet Protocol**
 
 
-![alt text](Link "Figure 1")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig01.png "Figure 1")
 
-![alt text](Link "Figure 2")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig02.PNG "Figure 2")
 
-![alt text](Link "Figure 3")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig03.PNG "Figure 3")
 
-![alt text](Link "Figure 4")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig04.PNG "Figure 4")
 
-![alt text](Link "Figure 5")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig05.PNG "Figure 5")
 
-![alt text](Link "Figure 6")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig06.PNG "Figure 6")
 
-![alt text](Link "Figure 7")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig07.PNG "Figure 7")
 
-![alt text](Link "Figure 8")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig08.PNG "Figure 8")
 
-![alt text](Link "Figure 9")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig09.PNG "Figure 9")
 
-![alt text](Link "Figure 10")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig10.PNG "Figure 10")
 
-![alt text](Link "Figure 11")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig11.PNG "Figure 11")
 
-![alt text](Link "Figure 12")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig12.PNG "Figure 12")
 
-![alt text](Link "Figure 13")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig13.PNG "Figure 13")
 
-![alt text](Link "Figure 14")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig14.PNG "Figure 14")
 
-![alt text](Link "Figure 15")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig15.PNG "Figure 15")
 
-![alt text](Link "Figure 16")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig16.PNG "Figure 16")
 
-![alt text](Link "Figure 17")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig17.PNG "Figure 17")
 
-![alt text](Link "Figure 18")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig18.PNG "Figure 18")
 
-![alt text](Link "Figure 19")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig19.PNG "Figure 19")
 
-![alt text](Link "Figure 20")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig20.PNG "Figure 20")
 
-![alt text](Link "Figure 21")
+![alt text](Images/DesFert_Stems_Tablet/DesFert_Stems_Tablet_Fig21.PNG "Figure 21")

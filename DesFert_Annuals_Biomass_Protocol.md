@@ -28,7 +28,7 @@ In each CN Dep plot, we established 4 "biomass" sub-plots per plot, two in each 
 * Labeling tags, rebar, mallet (to replace rebar or tags for sub-plots at any site)
 
 **Figure 1.  Layout & sampling rotation of biomass quadrats.**
-![alt text](images/DesFert_Annuals_Biomass_Fig1.jpg "Figure 1")
+![alt text](Images/DesFert_Annuals_Biomass_Fig1.JPG "Figure 1")
 
 ## **Protocols:**
 
