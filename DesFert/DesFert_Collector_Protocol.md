@@ -130,8 +130,9 @@ Supplies:
 ![alt text](Images/DesFert_Collector_Fig4.JPG "Figure 4")
 
 ## **Resin Extraction Protocol:**
-Mixed bed resins are charged with H<sup>+</sup> and either Cl<sup>-</sup> or HCO<sub>3</sub><sup>-</sup>. The resins have a low affinity for these ions, which are replaced by NH<sub>4</sub><sup>+</sup>, NO<sub>3</sub><sup>-</sup>. The extractant used to remove N ions from the columns can vary depending on resin type and the type of analysis required. Extraction for the mixed bed resin is described in the following procedure using 2M KCl. We are currently working on a 0.5 or 1M HCl extraction method so that we can analyze for trace metals on ICP-OES as well as NH<sub>4</sub> and NO<sub>3</sub>.
-Supplies:
+Mixed bed resins are charged with H<sup>+</sup> and either Cl<sup>-</sup> or HCO<sub>3</sub><sup>-</sup>. The resins have a low affinity for these ions, which are replaced by NH<sub>4</sub><sup>+</sup>, NO<sub>3</sub><sup>-</sup>. The extractant used to remove N ions from the columns can vary depending on resin type and the type of analysis required. Extraction for the mixed bed resin is described in the following procedure using 2M KCl. We are currently working on a 0.5 or 1M HCl extraction method so that we can analyze for trace metals on ICP-OES as well as NH<sub>4</sub> and NO<sub>3</sub>.  
+
+**Supplies:**
 * Solutions of 2M KCl in 20 L carboy (149g KCl/L DI, put on shaker until dissolved)
 * 1 gallon glass jug and bottle top dispenser
 * Capped 250 mL plastic bottles, labeled with sequential numbers - 1 per sample
@@ -141,8 +142,10 @@ Supplies:
 * Whatman #42 ashless filter paper - 1 per sample
 * Buchner funnel, side arm Erlenmeyer flask, vacuum line
 * 250 mL graduated cylinder
-* 50 mL falcon tubes - 1 per samples; labeled with 'CN Dep', date, site, and either LATR1 or 2, or IP1 or 2. Using the datasheet as a reference, write the column number of each sample on the cap of the falcon tube.
-Procedure:
+* 50 mL falcon tubes - 1 per samples; labeled with 'CN Dep', date, site, and either LATR1 or 2, or IP1 or 2. Using the datasheet as a reference, write the column number of each sample on the cap of the falcon tube.  
+
+
+**Procedure:**
 1. Remove resin columns from walk-in refrigerator.
 2. Fill the gallon jug with KCl solution and set the bottle top dispenser to 50 mL. Use this to dispense the KCl solution into the wash bottles.
 3. Match the number on the column with the number on a plastic 250 mL bottle. Remove tin foil covering the open end of the column and place the column upside down over the 250 mL bottle (column fits just inside bottle opening). Place 200 mL (4 pumps) KCl solution into an acid-washed wash bottle (it is important to use exactly 200 mL of KCl). Insert the wash bottle tip in to the cap holes and wash the majority of the resin into the bottle (tapping the bottle on the counter top helps facilitate this).
