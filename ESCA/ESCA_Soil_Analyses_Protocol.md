@@ -175,7 +175,7 @@ Careful storage of the pH electrode is essential. Store overnight in pH 7 buffer
 If necessary, refill the electrode with the special solution and open the top ring on the electrode barrel (twist to left).
 
 
-# **Determining Soil Texture (Particle Size) - use bulk density soils for this analysis:
+# **Determining Soil Texture (Particle Size) - use bulk density soils for this analysis:**
 
 This method is taken from: Gee, G.W., and J.W. Bauder 1986. Particle size analysis. p. 383-411. *In*: A. Klute (ed.) Methods of soil analysis, part 1. Physical and Mineralogical Methods. 2nd ed. Agron. Monogr. 9 ASA and SSSA, Madison, WI. (2nd edition).
 
@@ -280,7 +280,7 @@ C<sub>O</sub> = oven dry weight of the sample
 
 Compute the summation percentage at 2*u*m. This is determined from the equation below: (This is the percent clay)
 
-**P<sub>2_u_m</sub> = _m_ ln (2/X<sub>1440</sub> + P<sub>1440</sub>**
+**P<sub>2um</sub> = _m_ ln (2/X<sub>1440</sub> + P<sub>1440</sub>)**
 
 Where:
 
@@ -299,7 +299,7 @@ Where:
 
 Compute the 50 _u_m summation percentage using the same procedure as above, but using 0.5 and 1 min hydrometer readings. The equation for summation percentage at 50 _u_m differs as follows:
 
-**P<sub>50_u_m</sub> = _m_ ln (50/X<sub>1</sub> + P<sub>1</sub>**
+**P<sub>50um</sub> = _m_ ln (50/X<sub>1</sub> + P<sub>1</sub>)**
 
 
 ### Silt Fraction:
