@@ -11,7 +11,7 @@ This should be a separate paragraph.
 
 # Header Uno
 
-_Note:_ The alt-text (AHAHA) doesn't show.  No idea what it does or means.
+_Note:_ The alt-text doesn't show.  No idea what it does or means.
 
 This should be an image with a link to a YouTube video.
 
