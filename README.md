@@ -1,4 +1,7 @@
 Tests #2
+
+
+NEW EDIT
 ---
 
 CHANGE 1: Added two trailing spaces after "Here's a line break test."  Hoping that it enters "This should be the same paragraph as before." into a new line, but the same paragraph.
